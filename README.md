@@ -2,7 +2,7 @@
 This directory provide two files that sends sample data over Fogwing IoTHub.
 
 ## Fogwing IoT Simulation for WQM
-We have provided two files:
+We have provided three files:
 * [requirements.txt](https://www.google.com)
 * [Fwg_digital_twin_for_WQM.py](https://www.google.com)
 * [configuration.json](https://www.google.com)
