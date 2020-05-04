@@ -15,7 +15,7 @@ Fogwinf IoTHub and sample data.
  
  ### Step:1
  #### Python & json file
- * Copy the python file and json file to your raspberry, now you have completed coding part.
+ * Copy the python file and json file to your raspberry pi, now you have completed coding part.
  
  ### Step:2
  #### Installing the libraries
