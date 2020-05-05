@@ -41,6 +41,9 @@ Fogwinf IoTHub and sample data.
                
  ### Step:5
  #### Start Analyzing your Data at Fogwing Platform
- * Now you are ready to analyze your data at Fogwing,
+ * Now you are ready to analyze your data at [Fogwing Platform](https://community.fogwing.net/) portal,
    you can check all the data within the data logs in the portal.
-   
+ 
+ #### Getting help and finding Fogwing docs
+ * [Fogwing Community Forum]()
+ * [Fogwing Community Docs](https://docs.fogwing.io)
