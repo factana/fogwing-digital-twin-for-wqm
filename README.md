@@ -26,7 +26,7 @@ Fogwing IoTHub and sample data.
  
  ### Step:3
  #### Credentials 
- * Change the **client_id**, **username**, **password** with
+ * Change the **client_id**,**dev_eui**, **username**, **password** with
    your Fogwing IoTHub access credentials and **time_interval** in **configuration.json** file.
    
  ### Step:4
