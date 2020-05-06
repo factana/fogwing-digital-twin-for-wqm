@@ -47,5 +47,5 @@ Fogwing IoTHub and sample data.
    you can check all the data within the data logs in the portal.
  
  #### Getting help and finding Fogwing docs
- * [Fogwing Community Forum]()
- * [Fogwing Community Docs](https://docs.fogwing.io)
+ * [Fogwing Platform Forum]()
+ * [Fogwing Platform Docs](https://docs.fogwing.io)
