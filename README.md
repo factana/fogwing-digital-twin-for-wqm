@@ -1,4 +1,4 @@
-#  _Fogwing IoT digital twin  simulator program for WQM with Raspberry Pi
+#  *Fogwing IoT digital twin  simulator program for WQM with Raspberry Pi*
 This directory provide two files that sends sample data over Fogwing IoTHub.
 
 ## Fogwing IoT Simulation for WQM
