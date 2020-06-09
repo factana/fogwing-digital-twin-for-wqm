@@ -13,24 +13,24 @@ until programs stop manually (Ctl+C)
 and **configuration.json** is for configuring the required credentials of
 Fogwing IoTHub and sample data.
  
- ### Step:1
- #### Python & json file
+ ## Step:1
+ ### Python & json file
  * Copy the python and json file to your raspberry, now you have completed coding part.
  
- ### Step:2
- #### Installing the libraries
+ ## Step:2
+ ### Installing the libraries
  * Install all required libraries using pip with our requirements.txt file.
     ```
     pip install -r requirements.txt
     ```
  
- ### Step:3
- #### Credentials 
+ ## Step:3
+ ### Credentials 
  * Change the **client_id**, **dev_eui**, **username**, **password** with
    your Fogwing IoTHub access credentials and **time_interval** as you want , in **topic** also enter the client_id in **configuration.json** file.
    
- ### Step:4
- #### Run and Get Started with Fogwing IoT
+ ## Step:4
+ ### Run and Get Started with Fogwing IoT
  * Now run the file with the below command.
     ```
     python Fwg_digital_twin_for_WQM.py
@@ -39,11 +39,11 @@ Fogwing IoTHub and sample data.
                instructions,you will be able to see a message that reads 
                'successfully published' in command line.
                
- ### Step:5
- #### Start analyzing your data at Fogwing Platform
+ ## Step:5
+ ### Start analyzing your data at Fogwing Platform
  * Now you are ready to analyze your data at [Fogwing Platform](https://enterprise.fogwing.net/) portal,
    you can check all the data within the data storage in the portal.
    
- #### Getting help and finding Fogwing docs
+ ### Getting help and finding Fogwing docs
  * [Fogwing Community Forum]()
  * [Fogwing Community Docs](https://docs.fogwing.io/)
