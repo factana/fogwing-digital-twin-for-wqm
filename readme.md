@@ -4,7 +4,7 @@ This directory provide three files that sends sample data over Fogwing IoTHub.
 ## Fogwing IoT Simulation for WQM
 We have provided three files:
 * [requirements.txt](https://github.com/factana/fogwing-digital-twin-for-wqm/blob/master/requirements.txt)
-* [fwg_dtwin_wqm.py](https://github.com/factana/fogwing-digital-twin-for-wqm/blob/master/Fwg_digital_twin_for_WQM.py)
+* [fwg_dtwin_wqm.py](https://github.com/factana/fogwing-digital-twin-for-wqm/blob/master/fwg_dtwin_wqm.py)
 * [configuration.json](https://github.com/factana/fogwing-digital-twin-for-wqm/blob/master/configuration.json)
 
 This program is for sending the data over Fogwing, 
