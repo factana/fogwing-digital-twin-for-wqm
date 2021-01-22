@@ -1,34 +1,28 @@
 
  {
+
    "MQTT_credential":
    {
      "host_name": "iothub.enterprise.fogwing.net",
      "port": 8883,
-     "topic": "fwent/edge/Enter your Fogwing IoTHub client_id/inbound",
-
+     "pub_topic": "Enter your Fogwing IoTHub publish topic",
+     "client_id": "Enter your Fogwing IoTHub client_id",
      "username": "Enter your Fogwing IoTHub username",
      "password": "Enter your Fogwing IoTHub password"
 
    },
 
-   "time_interval": "Enter time interval for sending data over Fogwing after every min or hour once in (seconds)",
-
-   "sample_data":
-   {
-     "client_id": "Enter your Fogwing IoTHub client_id",
-     "dev_eui": "Enter your Fogwing IoTHub dev_eui",
+  "data_interval": "Enter time interval for sending data over Fogwing after every min or hour once in (seconds)",
 
      "payload":
      {
-       "Temperature": 27,
-       "DO": 45,
-       "ORP": 1000,
-       "Turbidity": 55,
-       "pH": 8,
-       "Conductivity": 42,
-       "TDS": 400,
-       "battery_level": "95"
-     }
-   }
 
+       "DO": 88,
+       "pH": 7.03,
+       "EC": 212,
+       "turbidity": 400,
+       "TDS" : 200,
+       "temperature": 25.8,
+       "ORP": 240.5
+     }
  }

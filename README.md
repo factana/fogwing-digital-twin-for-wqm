@@ -9,7 +9,7 @@ We have provided three files:
 
 This program is for sending the data over Fogwing, 
 it keeps sending data with every minute or hour gap as per requirement 
-until programs stop manually (Ctl+C) 
+until programs stop manually 
 and **configuration.json** is for configuring the required credentials of
 Fogwing IoTHub and sample data.
  
@@ -26,8 +26,10 @@ Fogwing IoTHub and sample data.
  
  ## Step:3
  ### Credentials 
- * Change the **client_id**, **dev_eui**, **username**, **password** with
-   your Fogwing IoTHub access credentials and **time_interval** as you want , in **topic** also enter the client_id in **configuration.json** file.
+**Note:-** Do the following modification in **configuration.json** file.
+
+ * Enter the **username**, **password**, **client_id**, **pub_topic** of
+   your Fogwing IoTHub access and **data_interval** as you want.
    
  ## Step:4
  ### Run and Get Started with Fogwing IoT
