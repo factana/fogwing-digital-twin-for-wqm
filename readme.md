@@ -49,3 +49,4 @@ Fogwing IoTHub and sample data.
  ### Getting help and finding Fogwing docs
  * [Fogwing Community Forum](https://enterprise.fogwing.net/)
  * [Fogwing Community Docs](https://docs.fogwing.io/)
+ * Please visit https://www.fogwing.io/industrial-iot-platform/ for more information about Fogwing Industrial IoT Platform.
