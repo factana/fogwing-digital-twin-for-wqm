@@ -3,7 +3,7 @@
 
    "MQTT_credential":
    {
-     "host_name": "iothub.enterprise.fogwing.net",
+     "host_name": "iothub.fogwing.net",
      "port": 8883,
      "pub_topic": "Enter your Fogwing IoTHub publish topic",
      "client_id": "Enter your Fogwing IoTHub client_id",
